@@ -1,0 +1,142 @@
+[
+    {
+        "item": "Laptop Dell XPS 15",
+        "price": 1899.99,
+        "description": "Laptop premium com tela 4K, processador Intel Core i7 e placa gr\u00e1fica dedicada para produtividade e entretenimento."
+    },
+    {
+        "item": "SSD Samsung 970 EVO 1TB",
+        "price": 179.99,
+        "description": "Unidade de estado s\u00f3lido de alta velocidade para inicializa\u00e7\u00e3o r\u00e1pida do sistema e tempos de carregamento reduzidos."
+    },
+    {
+        "item": "Roteador Wi-Fi TP-Link Archer AX6000",
+        "price": 299.99,
+        "description": "Roteador de \u00faltima gera\u00e7\u00e3o com tecnologia Wi-Fi 6 para conex\u00f5es r\u00e1pidas e est\u00e1veis em toda a casa."
+    },
+    {
+        "item": "C\u00e2mera Logitech C920 HD Pro",
+        "price": 79.99,
+        "description": "C\u00e2mera web de alta defini\u00e7\u00e3o com microfones duplos para videoconfer\u00eancias e streaming de alta qualidade."
+    },
+    {
+        "item": "Impressora HP LaserJet Pro M404dn",
+        "price": 249.99,
+        "description": "Impressora a laser r\u00e1pida e confi\u00e1vel para documentos n\u00edtidos e profissionais."
+    },
+    {
+        "item": "Tablet Apple iPad Pro 12.9 polegadas",
+        "price": 1099.0,
+        "description": "Tablet premium com tela Liquid Retina, chip A12Z Bionic e suporte para Apple Pencil e Magic Keyboard."
+    },
+    {
+        "item": "Smartwatch Samsung Galaxy Watch 4",
+        "price": 349.99,
+        "description": "Smartwatch com monitor de sa\u00fade avan\u00e7ado, GPS integrado e resist\u00eancia \u00e0 \u00e1gua para estilo de vida ativo."
+    },
+    {
+        "item": "Impressora 3D Creality Ender 3 V2",
+        "price": 259.0,
+        "description": "Impressora 3D de mesa com estrutura s\u00f3lida e plataforma de impress\u00e3o remov\u00edvel para projetos criativos."
+    },
+    {
+        "item": "C\u00e2mera Mirrorless Sony Alpha a7 III",
+        "price": 1998.0,
+        "description": "C\u00e2mera fotogr\u00e1fica de \u00faltima gera\u00e7\u00e3o com sensor full-frame, foco autom\u00e1tico r\u00e1pido e grava\u00e7\u00e3o de v\u00eddeo em 4K."
+    },
+    {
+        "item": "Fone de Ouvido Bluetooth Sony WH-1000XM4",
+        "price": 349.99,
+        "description": "Fone de ouvido sem fio com cancelamento de ru\u00eddo adapt\u00e1vel, qualidade de \u00e1udio premium e conforto duradouro."
+    },
+    {
+        "item": "Tablet Apple iPad Pro 12.9 polegadas",
+        "price": 1099.0,
+        "description": "Tablet premium com tela Liquid Retina, chip A12Z Bionic e suporte para Apple Pencil e Magic Keyboard."
+    },
+    {
+        "item": "Smartwatch Samsung Galaxy Watch 4",
+        "price": 349.99,
+        "description": "Smartwatch com monitor de sa\u00fade avan\u00e7ado, GPS integrado e resist\u00eancia \u00e0 \u00e1gua para estilo de vida ativo."
+    },
+    {
+        "item": "Impressora 3D Creality Ender 3 V2",
+        "price": 259.0,
+        "description": "Impressora 3D de mesa com estrutura s\u00f3lida e plataforma de impress\u00e3o remov\u00edvel para projetos criativos."
+    },
+    {
+        "item": "C\u00e2mera Mirrorless Sony Alpha a7 III",
+        "price": 1998.0,
+        "description": "C\u00e2mera fotogr\u00e1fica de \u00faltima gera\u00e7\u00e3o com sensor full-frame, foco autom\u00e1tico r\u00e1pido e grava\u00e7\u00e3o de v\u00eddeo em 4K."
+    },
+    {
+        "item": "Fone de Ouvido Bluetooth Sony WH-1000XM4",
+        "price": 349.99,
+        "description": "Fone de ouvido sem fio com cancelamento de ru\u00eddo adapt\u00e1vel, qualidade de \u00e1udio premium e conforto duradouro."
+    },
+    {
+        "item": "Console PlayStation 5",
+        "price": 499.99,
+        "description": "Console de pr\u00f3xima gera\u00e7\u00e3o com gr\u00e1ficos em 4K, SSD ultrarr\u00e1pido e \u00e1udio imersivo para experi\u00eancia de jogo avan\u00e7ada."
+    },
+    {
+        "item": "Smart TV LG OLED 55 polegadas",
+        "price": 1499.99,
+        "description": "Smart TV com tecnologia OLED, resolu\u00e7\u00e3o 4K e intelig\u00eancia artificial para cores vibrantes e contraste impressionante."
+    },
+    {
+        "item": "C\u00e2mera Canon EOS R6",
+        "price": 2499.0,
+        "description": "C\u00e2mera mirrorless com sensor full-frame de 20.1MP, estabiliza\u00e7\u00e3o de imagem e grava\u00e7\u00e3o de v\u00eddeo em 4K."
+    },
+    {
+        "item": "Impressora Epson EcoTank ET-2720",
+        "price": 299.99,
+        "description": "Impressora com sistema de tanque de tinta que economiza at\u00e9 90% em custos de tinta e oferece impress\u00f5es de alta qualidade."
+    },
+    {
+        "item": "Fone de Ouvido Beats Studio3 Wireless",
+        "price": 349.95,
+        "description": "Fone de ouvido sem fio com cancelamento de ru\u00eddo adaptativo, \u00e1udio de alta qualidade e at\u00e9 22 horas de dura\u00e7\u00e3o da bateria."
+    },
+    {
+        "item": "Console Nintendo Switch OLED",
+        "price": 349.99,
+        "description": "Console de videogame port\u00e1til com tela OLED de 7 polegadas, controles Joy-Con e suporte a jogos em alta defini\u00e7\u00e3o."
+    },
+    {
+        "item": "Fone de Ouvido Bose QuietComfort 45",
+        "price": 329.0,
+        "description": "Fone de ouvido com cancelamento de ru\u00eddo ajust\u00e1vel, \u00e1udio imersivo e at\u00e9 24 horas de dura\u00e7\u00e3o da bateria."
+    },
+    {
+        "item": "Impressora Fotogr\u00e1fica Canon IVY Mini",
+        "price": 99.99,
+        "description": "Impressora port\u00e1til para fotos instant\u00e2neas de 2x3 polegadas, compat\u00edvel com dispositivos m\u00f3veis via Bluetooth."
+    },
+    {
+        "item": "Teclado Apple Magic Keyboard",
+        "price": 99.0,
+        "description": "Teclado sem fio com design elegante e teclas de perfil baixo para digita\u00e7\u00e3o confort\u00e1vel em dispositivos Apple."
+    },
+    {
+        "item": "Mouse Logitech MX Master 3",
+        "price": 99.99,
+        "description": "Mouse ergon\u00f4mico com roda de rolagem e conectividade Bluetooth para produtividade e precis\u00e3o."
+    },
+    {
+        "item": "Console Microsoft Xbox Series X",
+        "price": 2999.0,
+        "description": "Console de \u00faltima gera\u00e7\u00e3o com gr\u00e1ficos em 4K, ray tracing e taxa de atualiza\u00e7\u00e3o de at\u00e9 120Hz para experi\u00eancia de jogo imersiva."
+    },
+    {
+        "item": "Smartphone Samsung Galaxy S21 Ultra",
+        "price": 5699.0,
+        "description": "Smartphone premium com tela Dynamic AMOLED de 6.8 polegadas, c\u00e2mera de 108MP e suporte para caneta S Pen."
+    },
+    {
+        "item": "Notebook Apple MacBook Air M1",
+        "price": 7999.0,
+        "description": "Notebook ultrafino com chip M1 da Apple, at\u00e9 18 horas de dura\u00e7\u00e3o da bateria e desempenho ultrarr\u00e1pido."
+    }
+]

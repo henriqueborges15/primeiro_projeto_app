@@ -1,0 +1,87 @@
+[
+    {
+        "item": "Console Xbox Series X",
+        "price": 499.99,
+        "description": "Console de videogame de \u00faltima gera\u00e7\u00e3o com capacidade de reprodu\u00e7\u00e3o de jogos em 4K e tecnologia de carregamento r\u00e1pido."
+    },
+    {
+        "item": "Smart TV Samsung QLED 65 polegadas",
+        "price": 1299.99,
+        "description": "Smart TV com resolu\u00e7\u00e3o 4K, tecnologia de pontos qu\u00e2nticos e sistema operacional inteligente para entretenimento imersivo."
+    },
+    {
+        "item": "Soundbar Bose Solo 5",
+        "price": 199.99,
+        "description": "Soundbar compacto com tecnologia de \u00e1udio Bose para experi\u00eancia de \u00e1udio cinematogr\u00e1fica em casa."
+    },
+    {
+        "item": "C\u00e2mera GoPro HERO9 Black",
+        "price": 449.99,
+        "description": "C\u00e2mera de a\u00e7\u00e3o com v\u00eddeo em 5K, estabiliza\u00e7\u00e3o avan\u00e7ada e resist\u00eancia \u00e0 \u00e1gua para captura de aventuras emocionantes."
+    },
+    {
+        "item": "Notebook Apple MacBook Pro 13 polegadas",
+        "price": 1299.99,
+        "description": "Notebook premium com chip M1 da Apple, tela Retina e at\u00e9 20 horas de dura\u00e7\u00e3o da bateria."
+    },
+    {
+        "item": "Notebook HP Envy x360 15 polegadas",
+        "price": 899.99,
+        "description": "Notebook convers\u00edvel com tela sens\u00edvel ao toque Full HD, processador Ryzen 5 e placa gr\u00e1fica Radeon Vega para produtividade e entretenimento."
+    },
+    {
+        "item": "Projetor Epson Home Cinema 880",
+        "price": 549.99,
+        "description": "Projetor de alta defini\u00e7\u00e3o com resolu\u00e7\u00e3o 1080p, at\u00e9 3300 lumens de brilho e conectividade HDMI para experi\u00eancia de cinema em casa."
+    },
+    {
+        "item": "Caixa de Som Bluetooth JBL Flip 5",
+        "price": 119.99,
+        "description": "Caixa de som port\u00e1til com design \u00e0 prova d'\u00e1gua, at\u00e9 12 horas de reprodu\u00e7\u00e3o e som poderoso para festas em qualquer lugar."
+    },
+    {
+        "item": "Disco R\u00edgido Externo WD My Passport 2TB",
+        "price": 79.99,
+        "description": "Disco r\u00edgido port\u00e1til com capacidade de 2TB, design compacto e compatibilidade universal para armazenamento de dados seguro."
+    },
+    {
+        "item": "C\u00e2mera de Seguran\u00e7a Google Nest Cam Outdoor",
+        "price": 199.99,
+        "description": "C\u00e2mera de seguran\u00e7a externa com vis\u00e3o noturna, resist\u00eancia a intemp\u00e9ries e integra\u00e7\u00e3o com o Google Assistente para monitoramento residencial inteligente."
+    },
+    {
+        "item": "Notebook Dell XPS 13",
+        "price": 999.99,
+        "description": "Notebook ultrafino com tela InfinityEdge, processador Intel Core i7 e at\u00e9 16 horas de dura\u00e7\u00e3o da bateria."
+    },
+    {
+        "item": "Monitor LG UltraGear 27GN950-B",
+        "price": 999.99,
+        "description": "Monitor Nano IPS de 27 polegadas com resolu\u00e7\u00e3o 4K, taxa de atualiza\u00e7\u00e3o de 144Hz e tecnologia G-SYNC para jogos suaves e sem tearing."
+    },
+    {
+        "item": "C\u00e2mera Sony Alpha a7 IV",
+        "price": 2499.99,
+        "description": "C\u00e2mera mirrorless com sensor full-frame de 33MP, foco autom\u00e1tico avan\u00e7ado e grava\u00e7\u00e3o de v\u00eddeo em 4K."
+    },
+    {
+        "item": "Fone de Ouvido Sennheiser HD 660 S",
+        "price": 499.99,
+        "description": "Fone de ouvido de alta fidelidade com design aberto, drivers de alta resolu\u00e7\u00e3o e conforto excepcional."
+    },
+    {
+        "item": "TV Sony BRAVIA OLED A8H 65 polegadas",
+        "price": 10999.99,
+        "description": "TV OLED de 65 polegadas com resolu\u00e7\u00e3o 4K, tecnologia Acoustic Surface Audio e suporte para HDR Dolby Vision."
+    },
+    {
+        "item": "C\u00e2mera DSLR Canon EOS 5D Mark IV",
+        "price": 11999.99,
+        "description": "C\u00e2mera profissional com sensor full-frame de 30.4MP, sistema AF de 61 pontos e grava\u00e7\u00e3o de v\u00eddeo em 4K."
+    },
+    {
+        "item": "Console Sony PlayStation 5 Digital Edition",
+        "price": 2799.99,
+        "description": "Console de videogame sem disco com gr\u00e1ficos em 4K, SSD ultra-r\u00e1pido e \u00e1udio 3D para experi\u00eancia de jogo imersiva."
+    }
+]

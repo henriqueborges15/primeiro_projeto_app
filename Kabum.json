@@ -1,0 +1,147 @@
+[
+    {
+        "item": "Teclado Mec\u00e2nico",
+        "price": 150.49,
+        "description": "Teclado com interruptores mec\u00e2nicos para uma experi\u00eancia de digita\u00e7\u00e3o precisa e responsiva."
+    },
+    {
+        "item": "Mouse Gamer",
+        "price": 99.99,
+        "description": "Mouse com sensor de alta precis\u00e3o e design ergon\u00f4mico para longas sess\u00f5es de jogo."
+    },
+    {
+        "item": "Monitor 27 polegadas",
+        "price": 899.0,
+        "description": "Monitor de alta resolu\u00e7\u00e3o com taxa de atualiza\u00e7\u00e3o r\u00e1pida para uma experi\u00eancia visual imersiva."
+    },
+    {
+        "item": "Placa de V\u00eddeo GeForce RTX 3080",
+        "price": 4999.0,
+        "description": "Placa de v\u00eddeo poderosa com tecnologia de \u00faltima gera\u00e7\u00e3o para jogos e renderiza\u00e7\u00e3o de alta qualidade."
+    },
+    {
+        "item": "Processador AMD Ryzen 9 5900X",
+        "price": 2399.0,
+        "description": "Processador de alto desempenho com m\u00faltiplos n\u00facleos para multitarefa intensiva e jogos sem interrup\u00e7\u00f5es."
+    },
+    {
+        "item": "Headset Gamer",
+        "price": 199.9,
+        "description": "Headset com som surround e microfone com cancelamento de ru\u00eddo para comunica\u00e7\u00e3o clara durante o jogo."
+    },
+    {
+        "item": "Placa de Som Creative Sound BlasterX AE-5",
+        "price": 599.9,
+        "description": "Placa de som de alta resolu\u00e7\u00e3o com ilumina\u00e7\u00e3o RGB e amplificador para uma experi\u00eancia de \u00e1udio imersiva."
+    },
+    {
+        "item": "Webcam Logitech StreamCam",
+        "price": 499.0,
+        "description": "Webcam de alta defini\u00e7\u00e3o com captura de v\u00eddeo em 1080p/60fps e microfones duplos para streaming profissional."
+    },
+    {
+        "item": "Roteador Wi-Fi Asus RT-AX82U AX5400",
+        "price": 999.0,
+        "description": "Roteador Wi-Fi de \u00faltima gera\u00e7\u00e3o com tecnologia Wi-Fi 6 para conex\u00f5es est\u00e1veis e velocidades ultrarr\u00e1pidas."
+    },
+    {
+        "item": "Gabinete Gamer Cooler Master MasterBox TD500 Mesh",
+        "price": 599.9,
+        "description": "Gabinete com design de fluxo de ar otimizado e painel frontal de malha para resfriamento eficiente."
+    },
+    {
+        "item": "Cadeira Gamer DT3 Sports GT Racer Red",
+        "price": 899.9,
+        "description": "Cadeira ergon\u00f4mica com design esportivo e ajustes para conforto durante longas sess\u00f5es de jogo."
+    },
+    {
+        "item": "Placa de Som Creative Sound BlasterX AE-5",
+        "price": 599.9,
+        "description": "Placa de som de alta resolu\u00e7\u00e3o com ilumina\u00e7\u00e3o RGB e amplificador para uma experi\u00eancia de \u00e1udio imersiva."
+    },
+    {
+        "item": "Webcam Logitech StreamCam",
+        "price": 499.0,
+        "description": "Webcam de alta defini\u00e7\u00e3o com captura de v\u00eddeo em 1080p/60fps e microfones duplos para streaming profissional."
+    },
+    {
+        "item": "Roteador Wi-Fi Asus RT-AX82U AX5400",
+        "price": 999.0,
+        "description": "Roteador Wi-Fi de \u00faltima gera\u00e7\u00e3o com tecnologia Wi-Fi 6 para conex\u00f5es est\u00e1veis e velocidades ultrarr\u00e1pidas."
+    },
+    {
+        "item": "Gabinete Gamer Cooler Master MasterBox TD500 Mesh",
+        "price": 599.9,
+        "description": "Gabinete com design de fluxo de ar otimizado e painel frontal de malha para resfriamento eficiente."
+    },
+    {
+        "item": "Cadeira Gamer DT3 Sports GT Racer Red",
+        "price": 899.9,
+        "description": "Cadeira ergon\u00f4mica com design esportivo e ajustes para conforto durante longas sess\u00f5es de jogo."
+    },
+    {
+        "item": "Cadeira Gamer Cougar Armor One",
+        "price": 799.9,
+        "description": "Cadeira ergon\u00f4mica com design robusto e suporte lombar ajust\u00e1vel para conforto durante longas sess\u00f5es de jogo."
+    },
+    {
+        "item": "Gabinete Gamer Corsair Carbide Series 275R",
+        "price": 449.9,
+        "description": "Gabinete elegante com painel lateral de vidro temperado e excelente fluxo de ar para resfriamento eficiente."
+    },
+    {
+        "item": "Placa de Captura Elgato Game Capture HD60 S",
+        "price": 1099.9,
+        "description": "Placa de captura de v\u00eddeo com grava\u00e7\u00e3o em 1080p60fps e conex\u00e3o USB 3.0 para streaming e grava\u00e7\u00e3o de jogos."
+    },
+    {
+        "item": "SSD Crucial BX500 1TB",
+        "price": 399.9,
+        "description": "Unidade de estado s\u00f3lido com velocidades de leitura/grava\u00e7\u00e3o r\u00e1pidas para inicializa\u00e7\u00e3o r\u00e1pida do sistema e carregamento de aplicativos."
+    },
+    {
+        "item": "Monitor Gamer AOC 24G2/BK",
+        "price": 1699.9,
+        "description": "Monitor Full HD com taxa de atualiza\u00e7\u00e3o de 144Hz e tecnologia FreeSync para jogos suaves e sem tearing."
+    },
+    {
+        "item": "Microfone Blue Yeti X",
+        "price": 999.9,
+        "description": "Microfone USB de alta qualidade com quatro c\u00e1psulas de condensador e ilumina\u00e7\u00e3o LED para grava\u00e7\u00e3o de \u00e1udio profissional."
+    },
+    {
+        "item": "Placa de V\u00eddeo AMD Radeon RX 6800 XT",
+        "price": 5699.9,
+        "description": "Placa de v\u00eddeo de alta performance com arquitetura RDNA 2 para jogos em 4K e renderiza\u00e7\u00e3o de v\u00eddeo avan\u00e7ada."
+    },
+    {
+        "item": "SSD NVMe WD Black SN850 2TB",
+        "price": 1699.9,
+        "description": "SSD NVMe de alta velocidade com capacidade de 2TB para inicializa\u00e7\u00e3o r\u00e1pida do sistema e tempos de carregamento reduzidos."
+    },
+    {
+        "item": "Monitor Curvo Gamer Samsung Odyssey G9",
+        "price": 9999.9,
+        "description": "Monitor ultrawide de 49 polegadas com resolu\u00e7\u00e3o QLED e taxa de atualiza\u00e7\u00e3o de 240Hz para experi\u00eancia de jogo imersiva."
+    },
+    {
+        "item": "Cadeira Gamer DXRacer Racing Series",
+        "price": 1699.9,
+        "description": "Cadeira ergon\u00f4mica com estrutura de metal resistente e almofadas ajust\u00e1veis para suporte durante longas sess\u00f5es de jogo."
+    },
+    {
+        "item": "Processador AMD Ryzen 9 5900X",
+        "price": 3499.9,
+        "description": "Processador de \u00faltima gera\u00e7\u00e3o com 12 n\u00facleos e 24 threads para desempenho excepcional em jogos e tarefas multitarefa."
+    },
+    {
+        "item": "Placa de V\u00eddeo NVIDIA GeForce RTX 3080",
+        "price": 6999.9,
+        "description": "Placa de v\u00eddeo topo de linha com arquitetura Ampere para jogos em 4K e renderiza\u00e7\u00e3o de v\u00eddeo ultra-r\u00e1pida."
+    },
+    {
+        "item": "Monitor LG Ultrawide 34WL500-B",
+        "price": 1899.9,
+        "description": "Monitor ultrawide de 34 polegadas com resolu\u00e7\u00e3o Full HD e tecnologia IPS para cores vibrantes e amplo \u00e2ngulo de vis\u00e3o."
+    }
+]

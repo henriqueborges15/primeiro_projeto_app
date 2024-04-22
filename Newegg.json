@@ -1,0 +1,122 @@
+[
+    {
+        "item": "Mem\u00f3ria RAM Corsair Vengeance RGB Pro 16GB",
+        "price": 109.99,
+        "description": "M\u00f3dulo de mem\u00f3ria DDR4 com ilumina\u00e7\u00e3o RGB personaliz\u00e1vel para desempenho e estilo."
+    },
+    {
+        "item": "Placa-m\u00e3e ASUS ROG Strix Z590-E Gaming WiFi",
+        "price": 379.99,
+        "description": "Placa-m\u00e3e de alto desempenho com suporte a processadores Intel de \u00faltima gera\u00e7\u00e3o e conectividade Wi-Fi 6."
+    },
+    {
+        "item": "Gabinete NZXT H510 Elite",
+        "price": 149.99,
+        "description": "Gabinete elegante com painel frontal de vidro temperado e ilumina\u00e7\u00e3o RGB para constru\u00e7\u00f5es de PC impressionantes."
+    },
+    {
+        "item": "Fonte de Alimenta\u00e7\u00e3o EVGA SuperNOVA 750 G5",
+        "price": 129.99,
+        "description": "Fonte de alimenta\u00e7\u00e3o modular com certifica\u00e7\u00e3o 80 Plus Gold para efici\u00eancia energ\u00e9tica e desempenho confi\u00e1vel."
+    },
+    {
+        "item": "Cooler CPU Cooler Master Hyper 212 RGB Black Edition",
+        "price": 44.99,
+        "description": "Cooler de ar para CPU com design eficiente e ilumina\u00e7\u00e3o RGB para desempenho de resfriamento silencioso."
+    },
+    {
+        "item": "Placa de V\u00eddeo MSI GeForce RTX 3060 Ti GAMING X TRIO",
+        "price": 749.99,
+        "description": "Placa de v\u00eddeo de alto desempenho com sistema de resfriamento avan\u00e7ado e ilumina\u00e7\u00e3o RGB personaliz\u00e1vel."
+    },
+    {
+        "item": "Monitor LG UltraWide 34 polegadas",
+        "price": 799.99,
+        "description": "Monitor ultrawide com resolu\u00e7\u00e3o QHD e tecnologia IPS para ampla precis\u00e3o de cores e imers\u00e3o visual."
+    },
+    {
+        "item": "Teclado mec\u00e2nico Razer BlackWidow Elite",
+        "price": 169.99,
+        "description": "Teclado mec\u00e2nico com interruptores Razer Green e ilumina\u00e7\u00e3o Chroma RGB para desempenho personaliz\u00e1vel."
+    },
+    {
+        "item": "Fone de ouvido SteelSeries Arctis Pro Wireless",
+        "price": 329.99,
+        "description": "Fone de ouvido sem fio para jogos com \u00e1udio de alta resolu\u00e7\u00e3o, microfone com cancelamento de ru\u00eddo e conforto duradouro."
+    },
+    {
+        "item": "Placa de V\u00eddeo MSI GeForce RTX 3060 Ti GAMING X TRIO",
+        "price": 749.99,
+        "description": "Placa de v\u00eddeo de alto desempenho com sistema de resfriamento avan\u00e7ado e ilumina\u00e7\u00e3o RGB personaliz\u00e1vel."
+    },
+    {
+        "item": "Monitor LG UltraWide 34 polegadas",
+        "price": 799.99,
+        "description": "Monitor ultrawide com resolu\u00e7\u00e3o QHD e tecnologia IPS para ampla precis\u00e3o de cores e imers\u00e3o visual."
+    },
+    {
+        "item": "Teclado mec\u00e2nico Razer BlackWidow Elite",
+        "price": 169.99,
+        "description": "Teclado mec\u00e2nico com interruptores Razer Green e ilumina\u00e7\u00e3o Chroma RGB para desempenho personaliz\u00e1vel."
+    },
+    {
+        "item": "Fone de ouvido SteelSeries Arctis Pro Wireless",
+        "price": 329.99,
+        "description": "Fone de ouvido sem fio para jogos com \u00e1udio de alta resolu\u00e7\u00e3o, microfone com cancelamento de ru\u00eddo e conforto duradouro."
+    },
+    {
+        "item": "Placa de V\u00eddeo Gigabyte GeForce RTX 3070",
+        "price": 849.99,
+        "description": "Placa de v\u00eddeo de \u00faltima gera\u00e7\u00e3o com tecnologia de resfriamento WINDFORCE e ilumina\u00e7\u00e3o RGB para desempenho excepcional."
+    },
+    {
+        "item": "Monitor ASUS ROG Swift PG279Q",
+        "price": 699.99,
+        "description": "Monitor de jogos com resolu\u00e7\u00e3o WQHD, taxa de atualiza\u00e7\u00e3o de 165Hz e tecnologia G-SYNC para jogos suaves e sem tearing."
+    },
+    {
+        "item": "Teclado mec\u00e2nico HyperX Alloy Origins",
+        "price": 109.99,
+        "description": "Teclado com switches HyperX Red e ilumina\u00e7\u00e3o RGB personaliz\u00e1vel para desempenho de digita\u00e7\u00e3o r\u00e1pido e responsivo."
+    },
+    {
+        "item": "Mouse Logitech G502 HERO",
+        "price": 79.99,
+        "description": "Mouse com sensor HERO de 16K DPI, pesos ajust\u00e1veis e 11 bot\u00f5es program\u00e1veis para personaliza\u00e7\u00e3o avan\u00e7ada."
+    },
+    {
+        "item": "Processador Intel Core i9-12900K",
+        "price": 649.99,
+        "description": "Processador de \u00faltima gera\u00e7\u00e3o com 16 n\u00facleos e 24 threads para desempenho excepcional em jogos e aplicativos multitarefa."
+    },
+    {
+        "item": "Placa-m\u00e3e ASUS ROG Maximus Z690 Hero",
+        "price": 499.99,
+        "description": "Placa-m\u00e3e de alto desempenho com suporte a processadores Intel de 12\u00aa gera\u00e7\u00e3o e recursos de overclocking avan\u00e7ados."
+    },
+    {
+        "item": "Cooler CPU NZXT Kraken X73",
+        "price": 179.99,
+        "description": "Sistema de refrigera\u00e7\u00e3o l\u00edquida de 360mm com cabe\u00e7ote de bomba RGB e ventoinhas Aer P para resfriamento silencioso e eficiente."
+    },
+    {
+        "item": "Mem\u00f3ria RAM G.SKILL Trident Z RGB 32GB",
+        "price": 199.99,
+        "description": "Kit de mem\u00f3ria DDR4 com ilumina\u00e7\u00e3o RGB personaliz\u00e1vel e desempenho de overclocking para experi\u00eancia de jogo fluida."
+    },
+    {
+        "item": "Placa-M\u00e3e ASUS ROG Strix B550-F Gaming",
+        "price": 1399.99,
+        "description": "Placa-m\u00e3e de alto desempenho com suporte para processadores AMD Ryzen de 3\u00aa gera\u00e7\u00e3o e ilumina\u00e7\u00e3o RGB Aura Sync."
+    },
+    {
+        "item": "Mem\u00f3ria RAM Corsair Vengeance RGB Pro 32GB",
+        "price": 799.99,
+        "description": "Kit de mem\u00f3ria DDR4 com ilumina\u00e7\u00e3o RGB personaliz\u00e1vel e desempenho de overclocking para jogos e multitarefa."
+    },
+    {
+        "item": "SSD NVMe Samsung 970 EVO Plus 1TB",
+        "price": 799.99,
+        "description": "SSD NVMe de alta velocidade com capacidade de 1TB para inicializa\u00e7\u00e3o r\u00e1pida do sistema e transfer\u00eancia de dados ultra-r\u00e1pida."
+    }
+]
